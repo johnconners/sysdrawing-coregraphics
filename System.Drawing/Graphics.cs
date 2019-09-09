@@ -13,6 +13,7 @@
 //
 using System;
 using System.Drawing.Drawing2D;
+using MatrixOrder = System.Drawing.Drawing2D.MatrixOrder;
 using System.Drawing.Imaging;
 using System.Drawing.Text;
 

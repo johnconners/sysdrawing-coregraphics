@@ -8,6 +8,7 @@
 //
 using System;
 using System.Drawing.Drawing2D;
+using MatrixOrder = System.Drawing.Drawing2D.MatrixOrder;
 #if MONOMAC
 using CoreGraphics;
 #else
